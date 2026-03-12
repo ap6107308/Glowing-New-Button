@@ -30,7 +30,7 @@ A centered neon-red button on a black background that lights up with a glowing f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/glowing-neon-button.git
+   git clone https://github.com/ap6107308/glowing-neon-button.git
    ```
 2. Open `index.html` in your browser — that's it!
 
